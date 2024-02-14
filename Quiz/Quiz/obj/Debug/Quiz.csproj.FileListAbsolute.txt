@@ -1,0 +1,6 @@
+P:\Projetos C#\Quiz\Quiz\bin\Debug\Quiz.exe
+P:\Projetos C#\Quiz\Quiz\bin\Debug\Quiz.pdb
+P:\Projetos C#\Quiz\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+P:\Projetos C#\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+P:\Projetos C#\Quiz\Quiz\obj\Debug\Quiz.exe
+P:\Projetos C#\Quiz\Quiz\obj\Debug\Quiz.pdb

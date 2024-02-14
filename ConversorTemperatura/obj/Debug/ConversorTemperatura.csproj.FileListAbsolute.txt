@@ -1,0 +1,6 @@
+P:\Projetos C#\ConversorTemperatura\bin\Debug\ConversorTemperatura.exe
+P:\Projetos C#\ConversorTemperatura\bin\Debug\ConversorTemperatura.pdb
+P:\Projetos C#\ConversorTemperatura\obj\Debug\ConversorTemperatura.csproj.AssemblyReference.cache
+P:\Projetos C#\ConversorTemperatura\obj\Debug\ConversorTemperatura.csproj.CoreCompileInputs.cache
+P:\Projetos C#\ConversorTemperatura\obj\Debug\ConversorTemperatura.exe
+P:\Projetos C#\ConversorTemperatura\obj\Debug\ConversorTemperatura.pdb

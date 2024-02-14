@@ -1,0 +1,9 @@
+P:\Projetos C#\SistemaCadrasto\SistemaCadrasto\bin\Debug\SistemaCadrasto.exe
+P:\Projetos C#\SistemaCadrasto\SistemaCadrasto\bin\Debug\SistemaCadrasto.pdb
+P:\Projetos C#\SistemaCadrasto\SistemaCadrasto\obj\Debug\SistemaCadrasto.csproj.AssemblyReference.cache
+P:\Projetos C#\SistemaCadrasto\SistemaCadrasto\obj\Debug\SistemaCadrasto.Form1.resources
+P:\Projetos C#\SistemaCadrasto\SistemaCadrasto\obj\Debug\SistemaCadrasto.Properties.Resources.resources
+P:\Projetos C#\SistemaCadrasto\SistemaCadrasto\obj\Debug\SistemaCadrasto.csproj.GenerateResource.cache
+P:\Projetos C#\SistemaCadrasto\SistemaCadrasto\obj\Debug\SistemaCadrasto.csproj.CoreCompileInputs.cache
+P:\Projetos C#\SistemaCadrasto\SistemaCadrasto\obj\Debug\SistemaCadrasto.exe
+P:\Projetos C#\SistemaCadrasto\SistemaCadrasto\obj\Debug\SistemaCadrasto.pdb

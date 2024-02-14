@@ -1,0 +1,9 @@
+P:\Projetos C#\ManipulaString\ManipulaString\bin\Debug\ManipulaString.exe
+P:\Projetos C#\ManipulaString\ManipulaString\bin\Debug\ManipulaString.pdb
+P:\Projetos C#\ManipulaString\ManipulaString\obj\Debug\ManipulaString.csproj.AssemblyReference.cache
+P:\Projetos C#\ManipulaString\ManipulaString\obj\Debug\ManipulaString.Form1.resources
+P:\Projetos C#\ManipulaString\ManipulaString\obj\Debug\ManipulaString.Properties.Resources.resources
+P:\Projetos C#\ManipulaString\ManipulaString\obj\Debug\ManipulaString.csproj.GenerateResource.cache
+P:\Projetos C#\ManipulaString\ManipulaString\obj\Debug\ManipulaString.csproj.CoreCompileInputs.cache
+P:\Projetos C#\ManipulaString\ManipulaString\obj\Debug\ManipulaString.exe
+P:\Projetos C#\ManipulaString\ManipulaString\obj\Debug\ManipulaString.pdb

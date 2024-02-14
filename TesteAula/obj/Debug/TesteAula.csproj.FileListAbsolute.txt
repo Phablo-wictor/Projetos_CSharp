@@ -1,0 +1,6 @@
+P:\Projetos C#\TesteAula\bin\Debug\TesteAula.exe
+P:\Projetos C#\TesteAula\bin\Debug\TesteAula.pdb
+P:\Projetos C#\TesteAula\obj\Debug\TesteAula.csproj.AssemblyReference.cache
+P:\Projetos C#\TesteAula\obj\Debug\TesteAula.csproj.CoreCompileInputs.cache
+P:\Projetos C#\TesteAula\obj\Debug\TesteAula.exe
+P:\Projetos C#\TesteAula\obj\Debug\TesteAula.pdb

@@ -1,0 +1,6 @@
+P:\Projetos C#\Aula Classes Staticas\Aula Classes Staticas\bin\Debug\Aula Classes Staticas.exe
+P:\Projetos C#\Aula Classes Staticas\Aula Classes Staticas\bin\Debug\Aula Classes Staticas.pdb
+P:\Projetos C#\Aula Classes Staticas\Aula Classes Staticas\obj\Debug\Aula Classes Staticas.csproj.AssemblyReference.cache
+P:\Projetos C#\Aula Classes Staticas\Aula Classes Staticas\obj\Debug\Aula Classes Staticas.csproj.CoreCompileInputs.cache
+P:\Projetos C#\Aula Classes Staticas\Aula Classes Staticas\obj\Debug\Aula Classes Staticas.exe
+P:\Projetos C#\Aula Classes Staticas\Aula Classes Staticas\obj\Debug\Aula Classes Staticas.pdb

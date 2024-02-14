@@ -1,0 +1,6 @@
+P:\Projetos C#\Fribonacci\bin\Debug\Fribonacci.exe
+P:\Projetos C#\Fribonacci\bin\Debug\Fribonacci.pdb
+P:\Projetos C#\Fribonacci\obj\Debug\Fribonacci.csproj.AssemblyReference.cache
+P:\Projetos C#\Fribonacci\obj\Debug\Fribonacci.csproj.CoreCompileInputs.cache
+P:\Projetos C#\Fribonacci\obj\Debug\Fribonacci.exe
+P:\Projetos C#\Fribonacci\obj\Debug\Fribonacci.pdb

@@ -1,0 +1,6 @@
+P:\Projetos C#\Colecao\bin\Debug\Colecao.exe
+P:\Projetos C#\Colecao\bin\Debug\Colecao.pdb
+P:\Projetos C#\Colecao\obj\Debug\Colecao.csproj.AssemblyReference.cache
+P:\Projetos C#\Colecao\obj\Debug\Colecao.csproj.CoreCompileInputs.cache
+P:\Projetos C#\Colecao\obj\Debug\Colecao.exe
+P:\Projetos C#\Colecao\obj\Debug\Colecao.pdb

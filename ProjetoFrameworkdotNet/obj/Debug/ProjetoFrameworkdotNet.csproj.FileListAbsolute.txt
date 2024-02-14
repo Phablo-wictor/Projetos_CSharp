@@ -1,0 +1,6 @@
+P:\Projetos C#\ProjetoFrameworkdotNet\bin\Debug\ProjetoFrameworkdotNet.exe
+P:\Projetos C#\ProjetoFrameworkdotNet\bin\Debug\ProjetoFrameworkdotNet.pdb
+P:\Projetos C#\ProjetoFrameworkdotNet\obj\Debug\ProjetoFrameworkdotNet.csproj.AssemblyReference.cache
+P:\Projetos C#\ProjetoFrameworkdotNet\obj\Debug\ProjetoFrameworkdotNet.csproj.CoreCompileInputs.cache
+P:\Projetos C#\ProjetoFrameworkdotNet\obj\Debug\ProjetoFrameworkdotNet.exe
+P:\Projetos C#\ProjetoFrameworkdotNet\obj\Debug\ProjetoFrameworkdotNet.pdb

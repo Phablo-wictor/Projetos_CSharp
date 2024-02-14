@@ -1,0 +1,6 @@
+P:\Projetos C#\POO\ClassObjeto\bin\Debug\ClassObjeto.exe
+P:\Projetos C#\POO\ClassObjeto\bin\Debug\ClassObjeto.pdb
+P:\Projetos C#\POO\ClassObjeto\obj\Debug\ClassObjeto.csproj.AssemblyReference.cache
+P:\Projetos C#\POO\ClassObjeto\obj\Debug\ClassObjeto.csproj.CoreCompileInputs.cache
+P:\Projetos C#\POO\ClassObjeto\obj\Debug\ClassObjeto.exe
+P:\Projetos C#\POO\ClassObjeto\obj\Debug\ClassObjeto.pdb
